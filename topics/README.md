@@ -16,6 +16,11 @@
 | `malware-analysis` | 恶意软件分类、逆向与行为分析 |
 | `threat-intelligence` | 威胁情报抽取、关联与溯源证据 |
 | `security-agents` | 安全任务 Agent 与合法授权测试评测 |
+| `cyber-model-training` | Cyber 模型领域继续预训练、后训练（SFT / RL）与训练方法 |
+| `cyber-training-data` | 网络安全训练数据、合成数据、质量、配比与许可 |
+| `cyber-training-environments` | 合成任务环境、课程学习、可验证奖励与奖励设计 |
+| `cyber-training-systems` | 与 Cyber 模型相关的分布式训练效率、检查点、故障恢复与成本 |
+| `cyber-model-evaluation` | 数据泄漏 / 基准污染、受控基线、消融、迁移及真实场景验证 |
 
 ## Sec4AI
 
@@ -33,6 +38,8 @@
 | `ai-supply-chain` | 模型权重、依赖、数据与插件供应链 |
 | `ai-security-evaluation` | 威胁模型、攻击成功率、基准与防御评测 |
 
+Cyber 模型训练通常归入 AI4Sec；训练过程的投毒、隐私、供应链或安全对齐问题也可归入 Sec4AI。解析时记录基础模型、数据 / 权重 / 环境可获得性及许可、训练与推理成本，以及评测隔离、受控基线和迁移证据；基准分数不单独作为真实场景能力的证明。
+
 标签可随真实内容扩展，但应避免含义重复。跨方向的评测或系统同时标注 AI4Sec 与 Sec4AI，并解释各自关联。
 
 ## 类型与证据字段
@@ -49,6 +56,7 @@
 
 - 方向：`repo:timwhitez/AIxSec AI4Sec`
 - 主题：`repo:timwhitez/AIxSec "prompt-injection"`
+- 模型训练：`repo:timwhitez/AIxSec "cyber-model-training"`
 - 项目或论文：`repo:timwhitez/AIxSec "项目全名或论文标题"`
 - 指定月份的日报：`repo:timwhitez/AIxSec path:daily/2026/10`
 - 日期：先用 GitHub 文件查找搜索 `YYYY-MM-DD.md`，再在对应日报中定位条目

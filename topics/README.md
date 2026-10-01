@@ -42,6 +42,21 @@ Cyber 模型训练通常归入 AI4Sec；训练过程的投毒、隐私、供应�
 
 标签可随真实内容扩展，但应避免含义重复。跨方向的评测或系统同时标注 AI4Sec 与 Sec4AI，并解释各自关联。
 
+## 已收录主题入口
+
+下列入口指向实际发布条目；日期为日报日期。原始来源日期及新发布 / 背景补充状态见正文。完整逐项列表见[月度归档](../archives/README.md)。
+
+| 主题 | 已收录条目 |
+| --- | --- |
+| `vulnerability-discovery` | [2026-10-01 · GTIG AI 归因漏洞观察](../daily/2026/10/2026-10-01.md#news-gtig-ai-vulnerability) |
+| `agent-tool-security` | [2026-10-01 · MCP OAuth issuer](../daily/2026/10/2026-10-01.md#news-mcp-oauth-issuer)；[OpenShell v0.1.2](../daily/2026/10/2026-10-01.md#project-openshell-runtime-controls) |
+| `data-exfiltration` | [2026-10-01 · MCP OAuth 凭据边界](../daily/2026/10/2026-10-01.md#news-mcp-oauth-issuer) |
+| `ai-security-evaluation` | [2026-10-01 · OpenShell 证明器覆盖范围](../daily/2026/10/2026-10-01.md#project-openshell-runtime-controls) |
+| `cyber-model-training` | [2026-10-01 · MiST](../daily/2026/10/2026-10-01.md#paper-mist-mid-training)；[CyberWorld](../daily/2026/10/2026-10-01.md#paper-cyberworld-world-model) |
+| `cyber-training-data` | [2026-10-01 · MiST 合成数据与隔离](../daily/2026/10/2026-10-01.md#paper-mist-mid-training) |
+| `cyber-training-environments` | [2026-10-01 · CyberWorld 世界模型](../daily/2026/10/2026-10-01.md#paper-cyberworld-world-model) |
+| `cyber-model-evaluation` | [2026-10-01 · GTIG 归因边界](../daily/2026/10/2026-10-01.md#news-gtig-ai-vulnerability)；[MiST 消融](../daily/2026/10/2026-10-01.md#paper-mist-mid-training)；[CyberWorld 评测口径](../daily/2026/10/2026-10-01.md#paper-cyberworld-world-model) |
+
 ## 类型与证据字段
 
 - 类型：`news`（新闻）、`project`（项目）、`paper`（论文）

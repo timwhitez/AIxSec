@@ -49,13 +49,18 @@ Cyber 模型训练通常归入 AI4Sec；训练过程的投毒、隐私、供应�
 | 主题 | 已收录条目 |
 | --- | --- |
 | `vulnerability-discovery` | [2026-10-01 · GTIG AI 归因漏洞观察](../daily/2026/10/2026-10-01.md#news-gtig-ai-vulnerability) |
-| `agent-tool-security` | [2026-10-01 · MCP OAuth issuer](../daily/2026/10/2026-10-01.md#news-mcp-oauth-issuer)；[OpenShell v0.1.2](../daily/2026/10/2026-10-01.md#project-openshell-runtime-controls) |
-| `data-exfiltration` | [2026-10-01 · MCP OAuth 凭据边界](../daily/2026/10/2026-10-01.md#news-mcp-oauth-issuer) |
-| `ai-security-evaluation` | [2026-10-01 · OpenShell 证明器覆盖范围](../daily/2026/10/2026-10-01.md#project-openshell-runtime-controls) |
-| `cyber-model-training` | [2026-10-01 · MiST](../daily/2026/10/2026-10-01.md#paper-mist-mid-training)；[CyberWorld](../daily/2026/10/2026-10-01.md#paper-cyberworld-world-model) |
+| `agent-tool-security` | [2026-10-01 · MCP OAuth issuer](../daily/2026/10/2026-10-01.md#news-mcp-oauth-issuer)；[OpenShell v0.1.2](../daily/2026/10/2026-10-01.md#project-openshell-runtime-controls)；[2026-10-02 · Asymmetric：Agent 服务组合风险](../daily/2026/10/2026-10-02.md#news-asymmetric-agent-service-chains)；[2026-10-02 · PACE：执行前来源与权限检查](../daily/2026/10/2026-10-02.md#paper-pace-execution-boundary)；[2026-10-02 · LLMLeak：正常网页抓取外泄](../daily/2026/10/2026-10-02.md#paper-llmleak-web-fetching) |
+| `data-exfiltration` | [2026-10-01 · MCP OAuth 凭据边界](../daily/2026/10/2026-10-01.md#news-mcp-oauth-issuer)；[2026-10-02 · Asymmetric：Agent 服务组合风险](../daily/2026/10/2026-10-02.md#news-asymmetric-agent-service-chains)；[2026-10-02 · PACE：执行前来源与权限检查](../daily/2026/10/2026-10-02.md#paper-pace-execution-boundary)；[2026-10-02 · LLMLeak：正常网页抓取外泄](../daily/2026/10/2026-10-02.md#paper-llmleak-web-fetching) |
+| `ai-security-evaluation` | [2026-10-01 · OpenShell 证明器覆盖范围](../daily/2026/10/2026-10-01.md#project-openshell-runtime-controls)；[2026-10-02 · Asymmetric：Agent 服务组合风险](../daily/2026/10/2026-10-02.md#news-asymmetric-agent-service-chains)；[2026-10-02 · PACE：执行前来源与权限检查](../daily/2026/10/2026-10-02.md#paper-pace-execution-boundary)；[2026-10-02 · LLMLeak：正常网页抓取外泄](../daily/2026/10/2026-10-02.md#paper-llmleak-web-fetching) |
+| `cyber-model-training` | [2026-10-01 · MiST](../daily/2026/10/2026-10-01.md#paper-mist-mid-training)；[CyberWorld](../daily/2026/10/2026-10-01.md#paper-cyberworld-world-model)；[2026-10-02 · Crossing the Cyber Divide：策略迁移](../daily/2026/10/2026-10-02.md#paper-cyber-policy-transfer) |
 | `cyber-training-data` | [2026-10-01 · MiST 合成数据与隔离](../daily/2026/10/2026-10-01.md#paper-mist-mid-training) |
-| `cyber-training-environments` | [2026-10-01 · CyberWorld 世界模型](../daily/2026/10/2026-10-01.md#paper-cyberworld-world-model) |
-| `cyber-model-evaluation` | [2026-10-01 · GTIG 归因边界](../daily/2026/10/2026-10-01.md#news-gtig-ai-vulnerability)；[MiST 消融](../daily/2026/10/2026-10-01.md#paper-mist-mid-training)；[CyberWorld 评测口径](../daily/2026/10/2026-10-01.md#paper-cyberworld-world-model) |
+| `cyber-training-environments` | [2026-10-01 · CyberWorld 世界模型](../daily/2026/10/2026-10-01.md#paper-cyberworld-world-model)；[2026-10-02 · Crossing the Cyber Divide：策略迁移](../daily/2026/10/2026-10-02.md#paper-cyber-policy-transfer) |
+| `cyber-model-evaluation` | [2026-10-01 · GTIG 归因边界](../daily/2026/10/2026-10-01.md#news-gtig-ai-vulnerability)；[MiST 消融](../daily/2026/10/2026-10-01.md#paper-mist-mid-training)；[CyberWorld 评测口径](../daily/2026/10/2026-10-01.md#paper-cyberworld-world-model)；[2026-10-02 · 分层 Cyber 防御：规划与执行](../daily/2026/10/2026-10-02.md#paper-hierarchical-cyber-defense)；[2026-10-02 · Crossing the Cyber Divide：策略迁移](../daily/2026/10/2026-10-02.md#paper-cyber-policy-transfer) |
+
+| `prompt-injection` | [2026-10-02 · PACE：执行前来源与权限检查](../daily/2026/10/2026-10-02.md#paper-pace-execution-boundary) |
+| `ai-supply-chain` | [2026-10-02 · LLMLeak：正常网页抓取外泄](../daily/2026/10/2026-10-02.md#paper-llmleak-web-fetching) |
+| `detection-response` | [2026-10-02 · 分层 Cyber 防御：规划与执行](../daily/2026/10/2026-10-02.md#paper-hierarchical-cyber-defense) |
+| `security-agents` | [2026-10-02 · 分层 Cyber 防御：规划与执行](../daily/2026/10/2026-10-02.md#paper-hierarchical-cyber-defense) |
 
 ## 类型与证据字段
 

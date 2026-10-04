@@ -6,7 +6,7 @@ AI × Cybersecurity 中文技术日报。关注 **AI4Sec（用 AI 改进网络�
 
 ## 阅读入口
 
-- **最新日报**：[2026-10-03](daily/2026/10/2026-10-03.md) · SQL 权限边界、AuraForge、ABSENTIA、APEX · 4 条近期补读解析
+- **最新日报**：[2026-10-04](daily/2026/10/2026-10-04.md) · GitLab 模板沙箱、KaliBench 评分、ZoneClaw、NEEDLE · 4 条近期补读与工程复核
 - [月度归档](archives/README.md)
 - [主题分类与检索](topics/README.md)
 

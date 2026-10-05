@@ -6,7 +6,7 @@ AI × Cybersecurity 中文技术日报。关注 **AI4Sec（用 AI 改进网络�
 
 ## 阅读入口
 
-- **最新日报**：[2026-10-04](daily/2026/10/2026-10-04.md) · GitLab 模板沙箱、KaliBench 评分、ZoneClaw、NEEDLE · 4 条近期补读与工程复核
+- **最新日报**：[2026-10-05](daily/2026/10/2026-10-05.md) · Pincer资源授权、MIRROR消息完整性、AgentSecGraph静态证据图 · 3篇新公告论文与配套工程核查
 - [月度归档](archives/README.md)
 - [主题分类与检索](topics/README.md)
 

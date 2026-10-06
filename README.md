@@ -6,7 +6,7 @@ AI × Cybersecurity 中文技术日报。关注 **AI4Sec（用 AI 改进网络�
 
 ## 阅读入口
 
-- **最新日报**：[2026-10-05](daily/2026/10/2026-10-05.md) · Pincer资源授权、MIRROR消息完整性、AgentSecGraph静态证据图 · 3篇新公告论文与配套工程核查
+- **最新日报**：[2026-10-06](daily/2026/10/2026-10-06.md) · TPRS评测表示、Whiteout隐私保护、ICS证据链与负结果 · 3篇近期论文补读
 - [月度归档](archives/README.md)
 - [主题分类与检索](topics/README.md)
 

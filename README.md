@@ -6,7 +6,7 @@ AI × Cybersecurity 中文技术日报。关注 **AI4Sec（用 AI 改进网络�
 
 ## 阅读入口
 
-- **最新日报**：[2026-10-08](daily/2026/10/2026-10-08.md) · Secure-CUA执行边界、防御RL教师、凭据安全恢复 · 3篇论文解析
+- **最新日报**：[2026-10-09](daily/2026/10/2026-10-09.md) · AIDA证据分诊、NOMOS政策门控、DITTO模型审计 · 3篇论文解析
 - [月度归档](archives/README.md)
 - [主题分类与检索](topics/README.md)
 

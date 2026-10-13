@@ -10,17 +10,17 @@
 
 | 标签 | 关注范围 |
 | --- | --- |
-| `vulnerability-discovery` | 漏洞发现、模糊测试、程序分析 |
-| `code-security` | 代码审计、漏洞修复与补丁验证 |
+| `vulnerability-discovery` | [2026-10-13 · EviRepair：经审查的漏洞模型](../daily/2026/10/2026-10-13.md#paper-evirepair-evidence-model)；漏洞发现、模糊测试、程序分析 |
+| `code-security` | [2026-10-13 · EviRepair：经审查的漏洞模型](../daily/2026/10/2026-10-13.md#paper-evirepair-evidence-model)；代码审计、漏洞修复与补丁验证 |
 | `detection-response` | 威胁检测、SOC 告警分析、事件响应 |
 | `malware-analysis` | 恶意软件分类、逆向与行为分析 |
 | `threat-intelligence` | 威胁情报抽取、关联与溯源证据 |
-| `security-agents` | 安全任务 Agent 与合法授权测试评测 |
+| `security-agents` | [2026-10-13 · EviRepair：经审查的漏洞模型](../daily/2026/10/2026-10-13.md#paper-evirepair-evidence-model)；安全任务 Agent 与合法授权测试评测 |
 | `cyber-model-training` | Cyber 模型领域继续预训练、后训练（SFT / RL）与训练方法 |
 | `cyber-training-data` | 网络安全训练数据、合成数据、质量、配比与许可 |
 | `cyber-training-environments` | 合成任务环境、课程学习、可验证奖励与奖励设计 |
 | `cyber-training-systems` | 与 Cyber 模型相关的分布式训练效率、检查点、故障恢复与成本 |
-| `cyber-model-evaluation` | 数据泄漏 / 基准污染、受控基线、消融、迁移及真实场景验证 |
+| `cyber-model-evaluation` | [2026-10-13 · EviRepair：经审查的漏洞模型](../daily/2026/10/2026-10-13.md#paper-evirepair-evidence-model)；数据泄漏 / 基准污染、受控基线、消融、迁移及真实场景验证 |
 
 ## Sec4AI
 
@@ -28,15 +28,15 @@
 
 | 标签 | 关注范围 |
 | --- | --- |
-| `prompt-injection` | 直接或间接提示注入、上下文与指令边界 |
-| `jailbreak-misuse` | 越狱评测、滥用风险与防护有效性 |
-| `agent-tool-security` | Agent 工具调用、权限、隔离与 MCP 安全 |
+| `prompt-injection` | [2026-10-13 · VEPA：规则与生效权限](../daily/2026/10/2026-10-13.md#paper-vepa-evidence-authority)；直接或间接提示注入、上下文与指令边界 |
+| `jailbreak-misuse` | [2026-10-13 · PyRIT：历史、恢复与尝试计数](../daily/2026/10/2026-10-13.md#project-pyrit-technique-execute)；越狱评测、滥用风险与防护有效性 |
+| `agent-tool-security` | [2026-10-13 · 奖励投机：协作中的策略传播](../daily/2026/10/2026-10-13.md#paper-reward-hacking-transmission)；[2026-10-13 · VEPA：规则与生效权限](../daily/2026/10/2026-10-13.md#paper-vepa-evidence-authority)；Agent 工具调用、权限、隔离与 MCP 安全 |
 | `data-exfiltration` | 上下文、检索数据与工具输出泄漏 |
 | `poisoning-backdoors` | 训练 / 检索数据投毒、后门与触发机制 |
 | `model-privacy` | 成员推断、模型反演与训练数据隐私 |
 | `adversarial-robustness` | 对抗样本、分布变化与鲁棒性边界 |
-| `ai-supply-chain` | 模型权重、依赖、数据与插件供应链 |
-| `ai-security-evaluation` | 威胁模型、攻击成功率、基准与防御评测 |
+| `ai-supply-chain` | [2026-10-13 · 奖励投机：协作中的策略传播](../daily/2026/10/2026-10-13.md#paper-reward-hacking-transmission)；模型权重、依赖、数据与插件供应链 |
+| `ai-security-evaluation` | [2026-10-13 · 奖励投机：协作中的策略传播](../daily/2026/10/2026-10-13.md#paper-reward-hacking-transmission)；[2026-10-13 · VEPA：规则与生效权限](../daily/2026/10/2026-10-13.md#paper-vepa-evidence-authority)；[2026-10-13 · PyRIT：历史、恢复与尝试计数](../daily/2026/10/2026-10-13.md#project-pyrit-technique-execute)；威胁模型、攻击成功率、基准与防御评测 |
 | `safety-post-training` | 安全对齐后训练、正常任务效用、选择与外部验证；不等同Cyber任务能力训练 |
 
 Cyber 模型训练通常归入 AI4Sec；训练过程的投毒、隐私、供应链或安全对齐问题也可归入 Sec4AI。解析时记录基础模型、数据 / 权重 / 环境可获得性及许可、训练与推理成本，以及评测隔离、受控基线和迁移证据；基准分数不单独作为真实场景能力的证明。
